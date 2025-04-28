@@ -270,17 +270,11 @@ body{
   line-height: 40px;
   border-radius: 50px;
   background-color: #e8f6ea;
-  font-weight: 300;
   color: #088178;
   border: 1px solid #cce7d0;
   position: absolute;
   bottom: 20px;
   right: 10px;
-}
-
-#product1 .pro a img{
-  width:16px;
-  color: #088178;
 }
 
 #banner{
